@@ -1,1 +1,1 @@
-# github first session
+# github first session for learning
